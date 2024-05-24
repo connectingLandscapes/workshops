@@ -8,7 +8,7 @@
 # Practical session agenda
 
 **Step 1:** Tell us about yourself
-- Fill out this survey to tell us about yourselves: [](https://forms.gle/Wy2a82Rt7JcCDBYr7)
+- Fill out this survey to tell us about yourselves: [Google Form](https://forms.gle/Wy2a82Rt7JcCDBYr7)
 
 
 **Step 2:** 
@@ -21,8 +21,8 @@
 + *d) Corridors*
 
 **Step 3:** 
-  - Use this survey to give us feedback on the DSS: [](https://forms.gle/r3Aa5yvQDUzh9mk39)
+  - Use this survey to give us feedback on the DSS: [Google Form](https://forms.gle/r3Aa5yvQDUzh9mk39)
 
 **Step 4:** 
-  - Submit your workshop results and evaluation here: [](https://forms.gle/5i9tgQL1H5AeBMcT7)
+  - Submit your workshop results and evaluation here: [Google Form](https://forms.gle/5i9tgQL1H5AeBMcT7)
 
