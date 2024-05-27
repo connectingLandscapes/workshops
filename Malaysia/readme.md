@@ -16,8 +16,11 @@
 - Be sure to create at least one layer of:
   
  *a) Surface resistance*
+
  *b) Points*
+
  *c) Resistance kernels*
+ 
  *d) Corridors*
 
 **Step 3:** 
