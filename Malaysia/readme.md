@@ -8,20 +8,20 @@
 # Practical session agenda
 
 **Step 1:** Tell us about yourself
-- Fill out this survey to tell us about yourselves: [link](https://forms.gle/shQixpbBuxLpX3C78)
+- [Fill out this survey to tell us about yourselves](https://forms.gle/shQixpbBuxLpX3C78)
 
 
 **Step 2:** 
-- Follow the next steps: Tutorial or slides [here](https://docs.google.com/presentation/d/1VvDP-xnQBq_11OqGO_cignf30NjNIpiK47kwloQH66w/edit?usp=sharing)
+- Follow the next steps: [Tutorial or slides here](https://docs.google.com/presentation/d/1VvDP-xnQBq_11OqGO_cignf30NjNIpiK47kwloQH66w/edit?usp=sharing)
 - Be sure to create at least one layer of:
   
 + *a) Surface resistance*
 + *b) Points*
 + *c) Resistance kernels*
-+   *d) Corridors*
++ *d) Corridors*
 
 **Step 3:** 
-  - Use this survey to give us feedback on the DSS: (https://forms.gle/RnhJSgLn9R7o3VYV9)
+  - [Use this survey to give us feedback on the DSS] (https://forms.gle/RnhJSgLn9R7o3VYV9)
 
 **Step 4:** 
-  - Submit your workshop results and evaluation here: (https://forms.gle/5i9tgQL1H5AeBMcT7)
+  - [Submit your workshop results and evaluation here] (https://forms.gle/5i9tgQL1H5AeBMcT7)
