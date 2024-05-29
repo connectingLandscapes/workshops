@@ -2,7 +2,7 @@
 ## Sabah. Malaysia, May 29th 2024
 
 ##### *Scan this code to access workshop surveys and slides*
-![QRcode](https://github.com/connectingLandscapes/cola_workshop_brunei/blob/main/qr-code-brunei-workshop-400.png)
+![QRcode](https://github.com/connectingLandscapes/workshops/blob/main/Malaysia/Malaysia.png)
 
 
 # Practical session agenda
