@@ -24,7 +24,4 @@
  *d) Corridors*
 
 **Step 3:** 
-  - [Use this survey to give us feedback on the DSS](https://forms.gle/RnhJSgLn9R7o3VYV9)
-
-**Step 4:** 
-  - [Submit your workshop results and evaluation here](https://forms.gle/5i9tgQL1H5AeBMcT7)
+  - [Use this survey to give us feedback on the DSS](https://forms.gle/mGrV1XZqUVA5hCXMA)
